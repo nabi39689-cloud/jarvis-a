@@ -8,7 +8,8 @@ version = 0.1
 requirements = python3,kivy
 orientation = portrait
 fullscreen = 0
-icon.filename = %(source.dir)s/jarvis_icon.png
+icon.filename = %(source.dir)s/jarvis_icon-2.png
+
 android.permissions = RECORD_AUDIO,READ_CONTACTS,CALL_PHONE,INTERNET
 android.api = 33
 android.minapi = 21
